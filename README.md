@@ -139,6 +139,16 @@ RCM manages the financial aspects of healthcare from patient appointment schedul
 - **Fact Tables**: Transaction facts with foreign key relationships
 - **Business Metrics**: Revenue cycle KPIs and performance indicators
 
+  ![Screenshot 2025-06-25 224350](https://github.com/user-attachments/assets/6492e2db-6d04-48e1-8ad7-41b2f430c388)
+
+  ![Screenshot 2025-06-25 225356](https://github.com/user-attachments/assets/482f32df-2851-44df-9bcf-560a54d1b496)
+
+![Screenshot 2025-06-25 225504](https://github.com/user-attachments/assets/b95b0a74-49ec-4350-a9f2-eb418da5c722)
+
+![Screenshot 2025-06-25 225308](https://github.com/user-attachments/assets/18dfc040-6a6a-4e05-b476-12b8ce219137)
+
+
+
 ## 📈 Business Value & KPIs
 
 ### Key Performance Indicators
@@ -151,42 +161,6 @@ RCM manages the financial aspects of healthcare from patient appointment schedul
 - **Revenue Cycle Efficiency**: End-to-end process optimization
 - **Data Quality Metrics**: Completeness and accuracy reporting
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Azure subscription with appropriate permissions
-- Azure Databricks workspace
-- Azure Data Factory instance
-- Azure SQL Database
-- Azure Key Vault
-
-### Setup Instructions
-
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/yourusername/healthcare-data-engineering.git
-   cd healthcare-data-engineering
-   ```
-
-2. **Configure Azure Resources**
-   - Deploy Azure services using provided ARM templates
-   - Set up linked services in Azure Data Factory
-   - Configure Unity Catalog in Databricks
-
-3. **Setup Security**
-   - Create service principals for authentication
-   - Configure Key Vault secrets
-   - Set up access policies
-
-4. **Deploy Pipelines**
-   - Import ADF pipelines from JSON files
-   - Configure pipeline parameters
-   - Schedule data ingestion jobs
-
-5. **Initialize Data**
-   - Run setup scripts for audit tables
-   - Execute initial data load pipelines
-   - Validate data quality checks
 
 ## 🔍 Monitoring & Maintenance
 
@@ -231,12 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Azure Data Engineering community
 - Open-source contributors
 
-## 📞 Contact
 
-**Project Maintainer**: [Your Name]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
